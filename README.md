@@ -1,2 +1,3 @@
 # AlexNet_Presentation
-https://docs.google.com/presentation/d/1eO8CWxBOxVa0ciWmewBELpeJ5wD-YhtHY3cNTSlCK3M/edit#slide=id.p
+
+[Slideshow](https://docs.google.com/presentation/d/1eO8CWxBOxVa0ciWmewBELpeJ5wD-YhtHY3cNTSlCK3M/edit#slide=id.p)
